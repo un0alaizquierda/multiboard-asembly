@@ -132,6 +132,29 @@ ProjectName=main_board.PrjPcb
 VaultURL=
 VaultName=
 
+[Document5]
+DocumentPath=..\Paddle_shifter\PCB_Project\PCB_Project.PrjPcb
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+VaultGUID=D39FA491-BAB9-490C-BD41-E2AEFBF20521
+ManagedProjectGUID=9DDE23D5-BB7B-4177-9052-9808602AF050
+RevisionGUID=
+ProjectName=PCB_Project.PrjPcb
+VaultURL=https://angel-roman.365.altium.com:443/vault/
+VaultName=Angel Roman
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
