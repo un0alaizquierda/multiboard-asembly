@@ -53,29 +53,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Rotary switch\Rotary switch.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-VaultGUID=
-ManagedProjectGUID=
-RevisionGUID=
-ProjectName=Rotary switch.PrjPcb
-VaultURL=
-VaultName=
-
-[Document2]
 DocumentPath=MultiBoardSchematic1.MbsDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -92,7 +69,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=123f1057-c125-442a-9998-2dbef4682b15
 
-[Document3]
+[Document2]
 DocumentPath=Assembly1.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -109,30 +86,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=8f076e7e-a39d-403b-a3a9-e5af9b047799
 
-[Document4]
-DocumentPath=..\selector\main_board.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-VaultGUID=
-ManagedProjectGUID=
-RevisionGUID=
-ProjectName=main_board.PrjPcb
-VaultURL=
-VaultName=
-
-[Document5]
+[Document3]
 DocumentPath=..\Paddle_shifter\PCB_Project\PCB_Project.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
